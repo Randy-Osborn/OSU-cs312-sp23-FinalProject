@@ -58,3 +58,16 @@ When you are finished with the server and want to remove the infrastructure reso
 Remember to exercise caution when running the `terraform destroy` command, as it will permanently delete the resources associated with your Minecraft server.
 
 Congratulations! You have successfully set up a Minecraft server infrastructure on AWS using Terraform. You can now proceed to connect to the Minecraft server and start playing.
+
+
+## Resources
+
+Here are the resources that were used to write the code in this project:
+
+- [Terraform Documentation](https://www.terraform.io/docs/) - Official documentation for Terraform.
+- [AWS CLI User Guide](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure.html) - User guide for the AWS Command Line Interface (CLI).
+- [AWS Documentation](https://aws.amazon.com/documentation/) - Official documentation for various AWS services and features.
+- [Terraform Minecraft GitHub Repository](https://github.com/HarryNash/terraform-minecraft) - GitHub repository with code and resources for setting up a Minecraft server infrastructure using Terraform.
+- [ChatGPT Repository](https://github.com/openai/chatgpt) - GitHub repository for ChatGPT, a large language model for generating human-like text responses.
+
+Feel free to explore these resources for more in-depth information and guidance on working with Terraform, AWS CLI, AWS services, as well as the code used in the Terraform Minecraft project and the ChatGPT repository.
